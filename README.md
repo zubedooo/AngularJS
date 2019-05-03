@@ -1,6 +1,6 @@
 # Simple AngularJS App
 
-Just a simple AngularJS App to show some of its power!
+Just a simple AngularJS App
 
 To run the project, just hit this command on your terminal
 
@@ -8,6 +8,4 @@ To run the project, just hit this command on your terminal
 ./run.sh
 ```
 
-![](http://i.imgur.com/HX2hto8.png)
-
-[Demo](http://nofreakz.com.br/william/angularjs/simple-app/#/)
+![](https://www.xoriant.com/blog/wp-content/uploads/2015/11/36-How-to-Build-AngularJS-App-With-Standard-Architecture-Part-1.jpg)
