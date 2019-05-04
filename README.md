@@ -1,6 +1,6 @@
 # Simple AngularJS App
 
-Just a simple AngularJS App
+Just a simple AngularJS App developed for the Facebook App
 
 To run the project, just hit this command on your terminal
 
